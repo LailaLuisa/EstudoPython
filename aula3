@@ -1,0 +1,16 @@
+#strings são caracteres de texto, são adicionados à um 'print' sempre através de aspas
+#em Python elas podem ser duplas ou simples
+
+# Aspas simples
+print('Laila Luísa')
+print(1, 'Laila "Luísa"')
+
+# Aspas duplas
+print("Laila Luísa")
+print(2, "Laila 'Luísa'")
+
+# Escape anula as aspas como uma string separada
+print("Laila \"Luísa\"")
+
+# r, mostra os caracteres de escape
+print(r"Laila \"Luísa\"")

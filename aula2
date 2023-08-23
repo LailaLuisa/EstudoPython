@@ -1,0 +1,5 @@
+print (12, 34, sep='-')
+#O item 'sep' é conhecido como separador, ele vai determinar o que 
+# vai ficar entre os dois valores dentro do print
+print (1,2,3,4, sep=',')
+print (5,6,7,8, sep=',')
